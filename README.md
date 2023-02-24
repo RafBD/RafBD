@@ -3,7 +3,7 @@
 <!--<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px">-->  
 
 
-<h3 align='center'> I'm a Software Developer | Content creator | Information Technology in Business 🧑🏻‍💻 </h3>
+<h3 align='center'> I'm a software developer who is always seeking to learn new things. I am self-taught and continuously strive to expand my knowledge. 🧑🏻‍💻 </h3>
 
 <div>
   <h2>I'm currently</h2>
