@@ -10,6 +10,7 @@
   <ul>
   <li>📗 Learning Node.JS</li>
   <li>🌊 Learning Tailwind</li>
+  <li>🌊 Learning Tailwind</li>
   <li>📸 Creating Content </li>
 </ul>
 </div>
