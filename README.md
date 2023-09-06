@@ -11,7 +11,7 @@
   <li>📗 Learning Node.JS</li>
   <li>🌊 Learning Tailwind</li>
   <li>🪐 Learning Astro</li>
-  <li>📸 Creating Content </li>
+  <!--<li>📸 Creating Content </li>-->
 </ul>
 </div>
 
@@ -31,12 +31,12 @@
 
 ### 🐻 Contact Me:
 
-[![in]][in-link] [![tt]][tt-link] [![ig]][ig-link] 
+[![in]][in-link] <!--[![tt]][tt-link]-->[![ig]][ig-link] 
 
 [in]: https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white
 [ig]: https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white
-[tt]: https://img.shields.io/badge/tiktok-000000?style=flat-square&logo=tiktok&logoColor=white
+<!--[tt]: https://img.shields.io/badge/tiktok-000000?style=flat-square&logo=tiktok&logoColor=white-->
 
 [in-link]: https://www.linkedin.com/in/devraffa/
 [ig-link]: https://www.instagram.com/raffabd_/
-[tt-link]: https://www.tiktok.com/@devraffa
+<!--[tt-link]: https://www.tiktok.com/@devraffa--> 
