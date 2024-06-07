@@ -8,8 +8,8 @@
 <div>
   <h2>I'm currently</h2>
   <ul>
-  <li>📗 Learning Node.JS</li>
-  <li>🌊 Learning Tailwind</li>
+  <li>🌊 Learning Python</li>
+  <li>🌊 Learning React</li>
   <li>🪐 Learning Astro</li>
   <!--<li>📸 Creating Content </li>-->
 </ul>
