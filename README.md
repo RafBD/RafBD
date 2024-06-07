@@ -37,6 +37,6 @@
 [ig]: https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white
 <!--[tt]: https://img.shields.io/badge/tiktok-000000?style=flat-square&logo=tiktok&logoColor=white-->
 
-[in-link]: https://www.linkedin.com/in/devraffa/
-[ig-link]: https://www.instagram.com/raffabd_/
+[in-link]: https://www.linkedin.com/in/rafael-benitez-diaz/
+[ig-link]: https://www.instagram.com/rafa.be58/
 <!--[tt-link]: https://www.tiktok.com/@devraffa--> 
