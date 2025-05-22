@@ -8,9 +8,9 @@
 <div>
   <h2>I'm currently</h2>
   <ul>
-  <li>🌊 Learning Python</li>
-  <li>🌊 Learning React</li>
-  <li>🪐 Learning Astro</li>
+  <!--<li>🌊 Learning Python</li>-->
+  <!--<li>🌊 Learning React</li>-->
+  <!--<li>🪐 Learning Astro</li>-->
   <!--<li>📸 Creating Content </li>-->
 </ul>
 </div>
