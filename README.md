@@ -5,15 +5,15 @@
 
 <h3 align='center'> I'm a software developer who is always seeking to learn new things. I am self-taught and continuously strive to expand my knowledge. 🧑🏻‍💻 </h3>
 
-<div>
-  <h2>I'm currently</h2>
-  <ul>
+<!-- <div>-->
+  <!--<h2>I'm currently</h2>-->
+  <!--ul>-->
   <!--<li>🌊 Learning Python</li>-->
   <!--<li>🌊 Learning React</li>-->
   <!--<li>🪐 Learning Astro</li>-->
   <!--<li>📸 Creating Content </li>-->
-</ul>
-</div>
+<!--</ul>-->
+<!--</div>-->
 
 ## Skills
    <a href="https://www.javascript.com" target="_blank" rel="noreferrer noopener">
