@@ -1,42 +1,23 @@
-<h2 align='center'>
-<code> Hello World </code>  I'm Rafa 🐻 </h2>
-<!--<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px">-->  
+### Hi, I'm Rafa 👋
 
+I'm an **IT student** who's always learning and building. I'm passionate about tech and videogames.
 
-<h3 align='center'> I'm a software developer who is always seeking to learn new things. I am self-taught and continuously strive to expand my knowledge. 🧑🏻‍💻 </h3>
+### I created a basic guide to understand React.
+[![entendiendo-react](https://github-readme-stats.vercel.app/api/pin/?username=RafBD&repo=entendiendo-react)](https://github.com/RafBD/entendiendo-react)
 
-<!-- <div>-->
-  <!--<h2>I'm currently</h2>-->
-  <!--ul>-->
-  <!--<li>🌊 Learning Python</li>-->
-  <!--<li>🌊 Learning React</li>-->
-  <!--<li>🪐 Learning Astro</li>-->
-  <!--<li>📸 Creating Content </li>-->
-<!--</ul>-->
-<!--</div>-->
+### Languages and Tools
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
+</div>
 
-## Skills
-   <a href="https://www.javascript.com" target="_blank" rel="noreferrer noopener">
-      <img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/javascript.svg" alt="JavaScript" width="25" height="25" />     </a> 
-    <a href="https://html.com/html5/" target="_blank" rel="noreferrer noopener">
-      <img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/html5.svg" alt="HTML5" width="25" height="25" />
-    </a> 
-    <a href="https://css3.com" target="_blank" rel="noreferrer noopener">
-      <img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/css3.svg" alt="CSS3" width="25" height="25" />
-    </a>
+### Top Languages
+<img alt="Rafa's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafBD&langs_count=10&layout=compact&theme=react&hide_border=false&bg_color=0D1117&title_color=9042eb&icon_color=9042" height="180"/>
 
-![Rafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=RafBD&theme=midnight-purple&show_icons=true)
-
-<img  alt="Rafa's Top Languages"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafBD&langs_count=10&layout=compact&theme=react&hide_border=false&bg_color=0D1117&title_color=9042eb&icon_color=9042"  height="180"/>
-
-### 🐻 Contact Me:
-
-[![in]][in-link] <!--[![tt]][tt-link]--> <!--[![ig]][ig-link]--> 
-
-[in]: https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white
-<!--[ig]: https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white-->
-<!--[tt]: https://img.shields.io/badge/tiktok-000000?style=flat-square&logo=tiktok&logoColor=white-->
-
-[in-link]: https://www.linkedin.com/in/rafael-benitez-diaz/
-<!--[ig-link]: https://www.instagram.com/rafa.be58/-->
-<!--[tt-link]: https://www.tiktok.com/@devraffa--> 
+### Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-benitez-diaz/)
