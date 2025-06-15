@@ -1,6 +1,6 @@
 ### Hi, I'm Rafa 👋
 
-I'm an **IT student** who's always learning and building. I'm passionate about tech and videogames.
+### I'm an **IT student** who's always learning and building. I'm passionate about tech and videogames.
 
 ### I created a basic guide to understand React.
 [![entendiendo-react](https://github-readme-stats.vercel.app/api/pin/?username=RafBD&repo=entendiendo-react)](https://github.com/RafBD/entendiendo-react)
